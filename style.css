@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+.img{
+    position: relative;
+}
+div{
+    padding: 100px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    background-color: rgb(79, 66, 66,0.7) ;
+    width: 40%;
+}
+div .form{
+    padding: 10px 13px;
+    width: 100%;
+    position: relative;
+}
+div .form h1{
+    padding: 10px;
+}
+div .form label{
+    padding: 10px;
+}
+div .form input{
+    width: 100%;
+    padding: 10px;
+    background:none ;
+    border: none;
+    border-bottom: 1px solid white;
+}
+div .form button{
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+    width: 100%;
+    padding: 15px;
+}
+div .form .checkin{
+  
+}
+.imgabove{
+    border-radius: 400%;
+    width: 35%;
+    position: absolute;
+    top: -8%;
+    left: 200px;
+}
